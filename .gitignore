@@ -1,0 +1,26 @@
+# Videos stay on the computer that recorded them. Never commit them.
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.webm
+*.WEBM
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.m4v
+*.M4V
+*.ufmf
+*.h264
+
+# Cropped videos and tracking output can get large. Decide as a team before
+# sharing any of it.
+experiments/*/analysis/
+
+# Everyday clutter
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
