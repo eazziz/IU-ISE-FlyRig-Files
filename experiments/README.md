@@ -1,8 +1,7 @@
 # Experiments
 
-Each run gets its own folder, named with its experiment ID. Create one with
-`scripts/add_run.py` rather than by hand. See `docs/data_format.md` for what
-each file contains.
+One folder per run, named with its experiment ID. The FlyRig app creates
+these automatically after each recording.
 
-Videos in these folders stay on the computer that recorded them, so a fresh
-clone contains everything except the videos.
+Videos stay on the computer that recorded them, so a fresh clone contains
+everything except the videos.

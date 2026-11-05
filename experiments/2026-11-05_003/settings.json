@@ -1,0 +1,21 @@
+{
+  "experiment_id": "2026-11-05_003",
+  "created_at": "2026-11-05T14:51:31-05:00",
+  "run_type": "practice",
+  "operator": "edred azziz",
+  "original_filename": "test3_2026_11_05T19_51_30_898Z.mp4",
+  "app": {
+    "name": "FlyRig",
+    "version": "1.7.0",
+    "base_filename": "test3"
+  },
+  "camera": {
+    "source": "FaceTime HD Camera (2C0E:82E3)",
+    "requested_fps": 25.0,
+    "exposure": null,
+    "brightness": null
+  },
+  "light_command_count": 0,
+  "app_metadata": {},
+  "repo_commit": "a1d5997"
+}

@@ -1,0 +1,21 @@
+{
+  "experiment_id": "2026-11-05_001",
+  "created_at": "2026-11-05T14:37:12-05:00",
+  "run_type": "practice",
+  "operator": "Edred",
+  "original_filename": "__2026_11_05T19_34_41_331Z.mp4",
+  "app": {
+    "name": "FlyRig",
+    "version": "1.7.0",
+    "base_filename": ""
+  },
+  "camera": {
+    "source": null,
+    "requested_fps": null,
+    "exposure": null,
+    "brightness": null
+  },
+  "light_command_count": 0,
+  "app_metadata": {},
+  "repo_commit": "a1d5997"
+}
