@@ -1,0 +1,28 @@
+{
+  "experiment_id": "2026-11-05_004",
+  "video_filename": "2026-11-05_004.mp4",
+  "sha256": "b5cb766cc5104101d952a41b434e16cec5be5d0afa488a58ab461eedbe2cdcb5",
+  "codec": "h264",
+  "width": 320,
+  "height": 240,
+  "container": "mov,mp4,m4a,3gp,3g2,mj2",
+  "container_duration_seconds": 2.0,
+  "container_average_fps": 30.0,
+  "size_bytes": 13037,
+  "timestamp_source": "video_presentation_timestamps",
+  "timing": {
+    "frame_count": 60,
+    "first_frame_ms": 0.0,
+    "last_frame_ms": 1966.667,
+    "duration_seconds": 1.967,
+    "average_fps": 30.0,
+    "median_frame_interval_ms": 33.333,
+    "min_frame_interval_ms": 33.333,
+    "max_frame_interval_ms": 33.334,
+    "gap_threshold_ms": 50.0,
+    "out_of_order_frames": 0,
+    "gap_count": 0,
+    "estimated_missing_frames": 0,
+    "gaps": []
+  }
+}

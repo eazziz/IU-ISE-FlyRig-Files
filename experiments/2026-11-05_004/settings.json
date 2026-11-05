@@ -1,0 +1,21 @@
+{
+  "experiment_id": "2026-11-05_004",
+  "created_at": "2026-11-05T15:15:52-05:00",
+  "run_type": "practice",
+  "operator": "Test Script",
+  "original_filename": "push_test_2026_11_05T20_00_00_000Z.mp4",
+  "app": {
+    "name": "FlyRig",
+    "version": "1.7.0",
+    "base_filename": "push_test"
+  },
+  "camera": {
+    "source": null,
+    "requested_fps": null,
+    "exposure": null,
+    "brightness": null
+  },
+  "light_command_count": 0,
+  "app_metadata": {},
+  "repo_commit": "4804b34"
+}
